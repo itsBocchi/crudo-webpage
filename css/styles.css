@@ -1,0 +1,81 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: #6495ed;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+nav {
+    background-color: #85D4B7;
+}
+
+#top-logo{
+    padding-left: 100px;
+    size-adjust: 100%;
+}
+
+#primer {
+    color: crimson;
+}
+
+#segundo {
+    font-style: italic;
+}
+
+#tercer {
+    color: mediumseagreen;
+}
+
+.gris {
+    background-color: gray;
+}
+
+div {
+    /*width: 100px;
+    height: 100px;*/
+
+    width: calc(100vw/2);
+    height: 20vh;
+    background-color: #AAA;
+}
+
+.texto {
+    color:white;
+    font-size: 10vw;
+    text-align: center;
+}
+
+#uno {
+    background-color: #f86dfd;
+    float:left;
+}
+#dos {
+    background-color: #072448;
+    float:left;
+}
+#tres {
+    background-color: #54d2d2;
+    clear:left;
+    float:right;
+}
+#cuatro {
+    background-color: #ffcb00;
+    clear:left;
+    float:right;
+}
+#cinco {
+    background-color: #f8aa4b;
+    clear:left;
+    float:right;
+}
+#seis {
+    background-color: #ff6150;
+    clear:left;
+    float:right;
+}
